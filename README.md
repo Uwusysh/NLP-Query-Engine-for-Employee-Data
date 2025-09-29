@@ -191,7 +191,8 @@ project/
 
 ---
 
-## Loom Video Demo
+## [Loom Video Demo]([https://github.com/yourusername/nlp-query-engine](https://www.loom.com/share/bde4ade824d34da3a924e568062fd9cd))
+ 
 
 * **Data Ingestion:** Connect DB, show schema discovery, upload documents
 * **Query Interface:** Run SQL, document, and hybrid queries
