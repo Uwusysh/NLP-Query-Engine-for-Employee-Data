@@ -191,7 +191,7 @@ project/
 
 ---
 
-## [Loom Video Demo]([https://github.com/yourusername/nlp-query-engine](https://www.loom.com/share/bde4ade824d34da3a924e568062fd9cd))
+## [Loom Video Demo]((https://www.loom.com/share/bde4ade824d34da3a924e568062fd9cd))
  
 
 * **Data Ingestion:** Connect DB, show schema discovery, upload documents
